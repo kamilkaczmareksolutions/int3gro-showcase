@@ -1,6 +1,11 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
+<p align="center"><img src="docs/demo.gif" alt="int3gro.pl - demo" width="700"/></p>
+<p align="center"><sub>Screenshot walkthrough (code is private)</sub></p>
+
+<!-- Previous hero (backup, static):
 <p align="center"><img src="assets/hero.png" alt="int3gro.pl" width="700"/></p>
+-->
 
 <h1 align="center">int3gro.pl</h1>
 
